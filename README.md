@@ -1,6 +1,6 @@
 # Plotly-BellyButton
 
-The first part of this challenge is to load the patient names/ids into the drop down menu
+The first part of this challenge is to load the patient names/ids into the drop down menu <br/>
 -first read in the data using json
 -use d3.select to find the drop down and bind the data
 -populate the drop down (append(option))
